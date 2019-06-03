@@ -1,0 +1,25 @@
+{
+  "name": "@kuus/slick-themes",
+  "version": "0.0.1",
+  "description": "Themes for slick-carousel",
+  "main": "_base.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuus/slick-themes.git"
+  },
+  "keywords": [
+    "slick-carousel",
+    "themes",
+    "scss",
+    "customize"
+  ],
+  "author": "kuus <kunderikuus@gmail.com> (http://kunderikuus.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuus/slick-themes/issues"
+  },
+  "homepage": "https://github.com/kuus/slick-themes#readme"
+}
