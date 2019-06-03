@@ -8,7 +8,7 @@ This package requires that your build process renders sass. To use:
 
 or 
 
-`npm i --dev @kuus/slick-themes`
+`npm i @kuus/slick-themes`
 
 Then import it into your sass files:
 
